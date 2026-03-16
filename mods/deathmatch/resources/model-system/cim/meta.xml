@@ -1,0 +1,10 @@
+<meta>
+	<info name="Local Voice" author="" version="1.0" type="misc" />
+	<script src="s.lua" type="server" />
+    <script src="cDrawIcon.lua" type="client" />
+	<script src="cPlayerMuting.lua" type="client" />
+	<script src="cGlobals.lua" type="client" />
+
+	
+	<file src="images/voice.png" />
+</meta>
